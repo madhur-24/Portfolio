@@ -1,3 +1,3 @@
 # Portfolio
 
-Portfolio Website developed using HTML,CSS,JAVASCRIPT and ReactJs
+Portfolio Website developed using HTML, CSS, JAVASCRIPT and ReactJs
